@@ -1,0 +1,39 @@
+PODS:
+  - DropDown (2.3.2)
+  - IBAnimatable (5.1.0)
+  - Moscapsule (0.6.2)
+  - OpenSSL-Universal (1.0.2.13)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - DropDown
+  - IBAnimatable
+  - Moscapsule (from `https://github.com/flightonary/Moscapsule.git`)
+  - OpenSSL-Universal
+  - RxCocoa
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Moscapsule:
+    :git: https://github.com/flightonary/Moscapsule.git
+
+CHECKOUT OPTIONS:
+  Moscapsule:
+    :commit: b6e268e9254fe28a0f897471514192904133a860
+    :git: https://github.com/flightonary/Moscapsule.git
+
+SPEC CHECKSUMS:
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  IBAnimatable: dd81f8f22e9982b05e8ac50794e4c8988cc300f2
+  Moscapsule: 7c272cc4f434b5805effc237ecb1668fdb7aba5d
+  OpenSSL-Universal: 401888162f11c33ebbd46f782d9229da35c61327
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 11728df75412088fbb4e4ebb594ed7cf0bc6955a
+
+COCOAPODS: 1.4.0
